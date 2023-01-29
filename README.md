@@ -8,10 +8,10 @@
 如有侵权,
 请联系管理员删除.
 
-这是某平凡的数学讨论群的群文件备份,
-所有资源均为群友收集整理,
-如有侵权,
-请联系管理员删除.
+這是某平凡的數學討論群的群文件備份,
+所有資源均為群友收集整理,
+如有侵權,
+請聯系管理員刪除.
 
 This is a group file backup of the trivial group,
 All resources are collected and organized by group friends,
