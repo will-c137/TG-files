@@ -1,39 +1,29 @@
-# TG-files
+# 📁 TG-Files
 
-> 本项目合并了njumath项目(项目地址https://github.com/lengyuner/njumath, 目前已删库),
-> 并按许可证开源.
+TG-Files 是一个用于某平凡群群文件的备份的 Github 项目,包含了各种参考资料. 
 
-这是某平凡的数学讨论群的群文件备份,
-所有资源均为群友收集整理,
-如有侵权,
-请联系管理员删除.
+## 📂 项目结构
 
-這是某平凡的數學討論群的群文件備份,
-所有資源均為群友收集整理,
-如有侵權,
-請聯系管理員刪除.
+TG-Files 包含以下文件夹:
 
-This is a group file backup of the trivial group,
-All resources are collected and organized by group friends,
-In case of infringement,
-Please contact the administrator to delete.
+* `/培养方案`:存放培养方案
+* `/参考资料-数学(按方向整理)&参考资料-数学(按课程整理)`:整理数学系课程中所用的教材, 参考书, 阅读书目等, 分别从课程安排和方向上整理
+* `/参考资料-计算机软件相关`:计算机软件相关的参考书, 知识库, 包括LaTeX, cpp, sql......
+* `/往年真题`:收录释出或者群友自行整理的往年真题
 
-Il s'agit d'une sauvegarde de fichier de groupe du groupe trivial,
-Toutes les ressources sont collectées et organisées par groupe d'amis,
-En cas d'infraction,
-Veuillez contacter l'administrateur pour supprimer.
+## 📝 如何使用
 
-これは「トリビア・グルプ」のグループ ファイル バックアップです。
-すべてのリソースは、グループの友人によって収集および整理されます。
-違反の場合は、
-管理者に連絡して削除してください。
+1. **Fork** 这个项目到自己的仓库中. 
+2. 在自己的仓库中更新项目文件,例如:添加新的文档或者更新现有的文档. 
+3. 将变更 `push` 到自己的仓库中. 
+4. 创建 `pull request` 到本仓库. 
 
-Dies ist eine Gruppendateisicherung der Trivial Group,
-Alle Ressourcen werden von Gruppenfreunden gesammelt und organisiert,
-Bei Zuwiderhandlung
-Bitte wenden Sie sich an den Administrator, um.r zu löschen.
+## 💡 提示
 
-Это резервная копия группового файла тривиальной группы,
-Все ресурсы собраны и систематизированы друзьями группы,
-В случае нарушения,
-Пожалуйста, свяжитесь с администратором для удаления .r.
+1. 请不要将敏感信息提交到这个仓库中,以免泄露. 
+2. 本项目文件均由群友自行整理上传, 如有侵权, 请联系管理员删除.
+
+## 🤝 致谢
+
+本项目合并了njumath项目(项目地址https://github.com/lengyuner/njumath, 目前已删库),
+并按许可证开源.
