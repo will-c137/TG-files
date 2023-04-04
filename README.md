@@ -2,6 +2,10 @@
 
 `TG-Files`是`某平凡的数学讨论群`的群文件备份项目. 
 
+本项目网页:
+
+> [南数课程指南](https://tg0.gitbook.io/tgbook)
+
 ## 📂 项目结构
 
 TG-Files 包含以下文件夹:
