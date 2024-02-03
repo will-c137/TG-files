@@ -1,47 +1,40 @@
 # 📁 TG-Files
 
-`TG-Files`是南数课程资料汇总项目. 
+> I hope that one day this project will be a thing of the past.
 
-本项目网页:
+`TG-Files` is a collection of course materials for \*\*\* Mathematics courses.
 
-> [南数课程指南](https://tg0.gitbook.io/tgbook)
+## 📂 Project Structure
 
-## 📂 项目结构
+`TG-Files` is organized by course, with each course currently including the following folders:
 
-`TG-Files` 以课程为主要分类文件夹, 每门课目前包括以下文件夹:
+- `\` Course-related textbooks, exercises, reference books, etc. (placed in the root directory of the subfolder)
+- `\exams` Course-related exam materials, including past exam papers, etc.
 
+## 📝 How to Contribute
 
-- `\` 课程相关的课件, 教材, 习题, 参考书等(放在子文件夹的根目录)
-- `\exams` 课程相关的考试资料, 包括历年试卷等
+### **Easy Method**
 
+> - Due to the large size of this project, we recommend using the web upload method to increase the success rate of your upload.  
+> - Note that the maximum file size for upload is **25MB**. Please compress your files before uploading. If the upload fails, please use the traditional method.
 
-## 📝 如何贡献
+1. Click the `Add file` button in the top right corner of the webpage and select the `Upload files` option.
+2. Drag and drop your files onto the webpage, or click `choose your files` to select files.
+3. Click `Commit changes` to submit your files.
 
-### **简易方法**
+### Traditional Method (**Not recommended**)
 
-> 由于本项目已经过于庞大, 为了提高上传成功率, 推荐使用网页上传.
-> 注意, 上传文件大小不能超过25MB, 请压缩后上传. 若上传失败, 请使用传统方法.
+1. **Fork** this project to your own repository.
+2. Update the project files in your own repository, for example, by adding new documents or updating existing ones.
+3. `Push` your changes to your own repository.
+4. Create a `pull request` to this repository.
 
-1. 点击网页右上角的 `Add file` 按钮, 选择 `Upload files` 选项.
-![第1步](https://willblogs-1314994209.cos.ap-nanjing.myqcloud.com/imgs/20230911134136.png)
-2. 将文件拖拽到网页中, 或者点击 `choose your files` 选择文件.
-3. 点击 `Commit changes` 提交文件.
-![2-4步](https://willblogs-1314994209.cos.ap-nanjing.myqcloud.com/imgs/20230911134028.png)
-4. 等待管理员审核即可.
+## 💡 Tips
 
-### 传统方法(**不推荐**)
-1. **Fork** 这个项目到自己的仓库中. 
-2. 在自己的仓库中更新项目文件,例如:添加新的文档或者更新现有的文档. 
-3. 将变更 `push` 到自己的仓库中. 
-4. 创建 `pull request` 到本仓库. 
+1. Please do not submit sensitive information to this repository to avoid leakage.
+2. All files in this project are organized and uploaded by group members themselves. If there is any infringement, please contact the administrator to delete it.
 
+## 🤝 Acknowledgements
 
-## 💡 提示
-
-1. 请不要将敏感信息提交到这个仓库中,以免泄露. 
-2. 本项目文件均由群友自行整理上传, 如有侵权, 请联系管理员删除.
-
-## 🤝 致谢
-
-本项目合并了njumath项目(项目地址https://github.com/lengyuner/njumath, 目前已删库),
-并按许可证开源.
+This project merged the `njumath` project (project address https://github.com/lengyuner/njumath, currently deleted),
+and is open source according to the license.
