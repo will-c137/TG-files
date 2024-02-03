@@ -8,7 +8,7 @@
 
 `TG-Files` is organized by course, with each course currently including the following folders:
 
-- `\` Course-related textbooks, exercises, reference books, etc. (placed in the root directory of the subfolder)
+- `\` Course-related exercises, reference books, etc. (No textbooks which is easy to find)
 - `\exams` Course-related exam materials, including past exam papers, etc.
 
 ## 📝 How to Contribute
